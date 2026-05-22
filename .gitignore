@@ -1,0 +1,19 @@
+# 编译输出
+*.exe
+!build.bat
+
+# 临时文件
+*.tmp
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# IDE 文件
+.vscode/
+.idea/
